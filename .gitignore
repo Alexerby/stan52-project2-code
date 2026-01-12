@@ -218,3 +218,4 @@ __marimo__/
 *.png
 data/
 saved_models/
+*.csv
